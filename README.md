@@ -1,4 +1,5 @@
-# Free Vless WhiteList Sub. / Бесплатные Vless ключи для обхода белых списков
+# OUTDATED
+## Free Vless WhiteList Sub. / Бесплатные Vless ключи для обхода белых списков
 
 [![Обновляется каждый час](https://img.shields.io/badge/Обновление-каждый%20час-blue)](https://github.com/zieng2/wl)
 
